@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @dhavalbhagora
-- 👀 I’m interested in ..
+- 👀 I’m interested in work in IT Sector
 - 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 dhavalbhagora/dhavalbhagora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
